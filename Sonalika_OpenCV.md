@@ -1,5 +1,5 @@
 # OpenCV Topics 
 
 - Object detection  
-- Face detection  
+- Face detection   
 Gesture Control
