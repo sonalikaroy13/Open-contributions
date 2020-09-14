@@ -1,8 +1,9 @@
 # OpenCV Topics 
 
 
-- Changing color space  
-- Image processing (resizing, rotation, translation)   
+
+- Image processing (resizing, rotation, translation) 
+- Changing color space
 - image filtering and contours   
 - Object detection  
 - Face detection   
