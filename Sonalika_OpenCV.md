@@ -7,5 +7,5 @@
 - Image filtering and contours   
 - Object detection  
 - Face detection   
-- Gesture Control applications (in web applications  
+- Gesture Control applications (in web applications, games, etc.) 
 
